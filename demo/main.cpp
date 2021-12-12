@@ -1,4 +1,4 @@
-// Copyright (c) 2021. wm8
+// Copyright (c) 2021. Matvey21151
 
 #include "Investigation.h"
 #include "Experiment.h"

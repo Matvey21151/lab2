@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+// Copyright 2021 Matvey21151
 
 #include "Investigation.h"
 Investigation::Investigation(ExperimentType t, std::vector<int64_t>& sizes) {

@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+// Copyright 2021 Matvey21151
 #include "ExperimentType.h"
 
 #include <sstream>

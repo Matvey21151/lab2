@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+// Copyright 2021 Matvey21151
 
 #ifndef TEMPLATE_EXPERIMENT_H
 #define TEMPLATE_EXPERIMENT_H

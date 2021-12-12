@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+// Copyright 2021 Matvey21151
 #ifndef TEMPLATE_EXPERIMENTTYPE_H
 #define TEMPLATE_EXPERIMENTTYPE_H
 #include <string>
