@@ -26,7 +26,6 @@ Experiment::Experiment(int i, ExperimentType t, int64_t s)
 double Experiment::run() {
   using std::chrono::duration;
   using std::chrono::duration_cast;
-  using std::chrono::duration;
   using std::chrono::milliseconds;
   char k = 0;
   char* arr = initArray();
